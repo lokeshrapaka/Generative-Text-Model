@@ -13,13 +13,13 @@ DURATION : 6 WEEKS
 MENTOR : NEELA SANTOSH
 
 
-**Overview**T
+#Overview :
 
 his project is a part of the Artificial Intelligence Internship Program at Codetech IT Solutions. The objective of Task 4 is to implement a Text Generation Model capable of producing coherent and contextually meaningful paragraphs based on user input prompts. This is one of the most fascinating applications of Natural Language Processing (NLP), and it demonstrates how artificial intelligence can understand and generate human-like language.
 
 Text generation models are widely used today in applications such as chatbots, code generation tools, AI-based writing assistants, story creation engines, and more. This task aims to introduce interns to these technologies by building a practical system using either rule-based approaches or more advanced neural network models like LSTM or GPT (Generative Pretrained Transformer).
 
-**Objective**
+#Objective :
 
 The goal of this task is to:
 
@@ -31,7 +31,7 @@ Ensure the generated text is grammatically correct, semantically coherent, and s
 
 This task emphasizes understanding model behavior, training dynamics (for LSTM), or fine-tuning and inference (for GPT), and showcases how machines can learn to imitate human writing patterns.
 
-**Tools and Technologies**
+#Tools and Technologies:
 
 You can use any of the following:
 
@@ -47,7 +47,7 @@ You can use any of the following:
 
 >Google Colab / Jupyter Notebook for training and testing
 
-**Implementation Highlights**
+#Implementation Highlights :
 
 The system can be developed using either of two approaches:
 
@@ -71,13 +71,13 @@ You can use beam search, top-k sampling, or nucleus sampling for output diversit
 
 Both approaches help in understanding how language modeling works and how AI captures contextual relationships between words.
 
-Usage
+#Usage :
 Run the notebook or script and enter a prompt such as:
 
     Enter a prompt: "In the future, artificial intelligence will"
     
 The model will return generated text that continues this sentence in a logical and creative manner.
 
-**Output :**
+#Output :
 
 ![Image](https://github.com/user-attachments/assets/1d9876c3-e716-41b9-afd8-a21ccc7199a2)
