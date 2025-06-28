@@ -1,4 +1,4 @@
-**# Generative-Text-Model**
+# Generative-Text-Model
 
 COMPANY : CODETECH IT SOLUTIONS
 
