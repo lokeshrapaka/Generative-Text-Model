@@ -52,22 +52,24 @@ You can use any of the following:
 The system can be developed using either of two approaches:
 
 1. LSTM-Based Model
-Train an LSTM model on a custom text dataset (e.g., short stories, Wikipedia, news).
 
-Tokenize the data into sequences.
-
-Predict the next word given a sequence of previous words.
-
-Generate paragraphs by chaining predicted words.
+> Train an LSTM model on a custom text dataset (e.g., short stories, Wikipedia, news).
+> 
+> Tokenize the data into sequences.
+> 
+> Predict the next word given a sequence of previous words.
+> 
+> Generate paragraphs by chaining predicted words.
 
 2. GPT-2 Based Model
-Use HuggingFace’s transformers library.
 
-Load a pre-trained GPT-2 model.
-
-Accept a user prompt and let the model complete the text.
-
-You can use beam search, top-k sampling, or nucleus sampling for output diversity.
+> Use HuggingFace’s transformers library.
+> 
+> Load a pre-trained GPT-2 model.
+> 
+> Accept a user prompt and let the model complete the text.
+> 
+> You can use beam search, top-k sampling, or nucleus sampling for output diversity.
 
 Both approaches help in understanding how language modeling works and how AI captures contextual relationships between words.
 
