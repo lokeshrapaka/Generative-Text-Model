@@ -1,3 +1,5 @@
+**# Generative-Text-Model**
+
 COMPANY : CODETECH IT SOLUTIONS
 
 NAME : RAPAKA LOKESH
@@ -10,7 +12,6 @@ DURATION : 6 WEEKS
 
 MENTOR : NEELA SANTOSH
 
-**# Generative-Text-Model**
 
 **Overview**T
 
@@ -79,3 +80,4 @@ The model will return generated text that continues this sentence in a logical a
 
 **Output :**
 
+![Image](https://github.com/user-attachments/assets/1d9876c3-e716-41b9-afd8-a21ccc7199a2)
